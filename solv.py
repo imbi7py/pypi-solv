@@ -1,5 +1,5 @@
 """Placeholder pending proper publication of libsolv bindings"""
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 
 import warnings
 
